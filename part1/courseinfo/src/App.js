@@ -37,7 +37,6 @@ const Footer = (props) => {
 
 const App = () => {
 
-
   const course = {
     name: 'Half Stack application development',
     parts: [
@@ -64,6 +63,7 @@ const App = () => {
       <Footer parts={course.parts}/>
     </div>
   )
+
 }
 
 export default App;

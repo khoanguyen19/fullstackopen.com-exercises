@@ -1,0 +1,23 @@
+.success,
+.warning,
+.error {
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.success {
+    background-color: #d3dad0;
+    border: 5px solid rgb(11, 187, 11);
+}
+
+.warning {
+    background-color: #d3dad0;
+    border: 5px solid rgb(238, 238, 36);
+}
+
+.error {
+    background-color: #d3dad0;
+    border: 5px solid rgb(216, 34, 34);
+}
